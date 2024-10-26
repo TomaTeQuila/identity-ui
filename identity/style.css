@@ -35,7 +35,7 @@ body {
 }
 .card-body img:nth-child(2) {
     height: 120%;
-    padding-bottom: 4.2rem;
+    padding-bottom: 4rem;
     filter: drop-shadow(0 0 0.10rem rgb(255, 255, 255));
     z-index: 0;
 }
@@ -47,6 +47,7 @@ body {
     background-color: rgba(0, 0, 0, 0.349);
     padding: 1rem 1rem 2rem 1rem;
     border-radius: 5px;
+    width: 320px;
     gap: 0.75rem;
 }
 
